@@ -18,8 +18,8 @@ footer {
     background-color: black;
     padding: 25px;
 */
-    background-color:  lightgrey;
-    padding: 25px;
+    background-color: whitesmoke;
+    padding: 55px;
     height: 370px;
 }
 
@@ -199,7 +199,6 @@ footer {
 
 
 
-
 .grey-font{
     color: lightgray;
 }
@@ -225,10 +224,30 @@ li.foot-li{
 
 
 
+.inline-block {
+   display: inline-block;
+}
+
+#title-team{
+
+    font-weight: bold;
+}
 
 
+#mngmt{
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #00aeef;
+    padding: 20px;
+}
 
 
+#board-mngmt{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px;
+}
 
 
 
