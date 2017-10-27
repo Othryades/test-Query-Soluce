@@ -67,11 +67,23 @@ footer {
 }
 .center-title{
      text-align: center;
+    font-family: "Times New Roman", RobotoCondensed, Serif;
+color:  #444444;
+font-size: 34px;/* Approximation causée par une substitution de police */
+font-weight: 300;
+line-height: 43px;/* Approximation causée par une substitution de police */
+text-align: center;
 }
 
 #first-para{
     text-align: center
     padding: 50px;
+    font-family: "Times New Roman", RobotoCondensed, Serif;
+color:  #666666;
+font-size: 16px;/* Approximation causée par une substitution de police */
+font-weight: 300;
+line-height: 24px;/* Approximation causée par une substitution de police */
+text-align: center;
 }
 
 #social-img{
@@ -246,7 +258,20 @@ li.foot-li{
     padding: 20px;
 }
 
-
-
-
+#thrid-article-para{
+    font-family: RobotoCondensed;
+color:  #666666;
+font-size: 16px;/* Approximation causée par une substitution de police */
+font-weight: 300;
+line-height: 24px;/* Approximation causée par une substitution de police */
+text-align: left;
+}
+#thrid-article-para2{
+    font-family: RobotoCondensed;
+    color:  #666666;
+    font-size: 16px;/* Approximation causée par une substitution de police */
+    font-weight: 300;
+    line-height: 24px;/* Approximation causée par une substitution de police */
+    text-align: left;
+}
 
