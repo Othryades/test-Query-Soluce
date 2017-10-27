@@ -19,7 +19,7 @@ footer {
     padding: 25px;
 */
     background-color:  lightgrey;
-    
+    padding: 25px;
     height: 370px;
 }
 
@@ -79,13 +79,13 @@ footer {
     margin:0 50px 0 0;
 }
 
-#leader-div{
+#second-article{
        width:100%; 
        height:550px; 
        background-image: url(../img/background_2.jpg);
 }
 
-.imageContainer2{
+.second-section{
        width:100%; 
        height:309px; 
        background-image: url(../img/Layer26.jpg);
@@ -95,7 +95,7 @@ footer {
     margin: 50px;
 }
 
-#first-section{
+#first-article{
     width:45%; 
     height:250px;
     margin: auto;
@@ -210,8 +210,18 @@ footer {
 }
 
 
+h5.main-title-foot{
+    font-size: 18px;
+    font-weight: bold;
+}
 
+ul.foot-list {
+  list-style-type: none;
+}
 
+li.foot-li{
+  margin: 15px 0;
+}
 
 
 
