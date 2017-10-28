@@ -167,12 +167,31 @@ text-align: center;
 } 
 
 .inner-main{
-  width: 600px; display: table-cell; 
+    width: 600px; 
+    display: table-cell; 
 }
 
 .inner-main2{
     display: table-cell; 
+    position: relative;
+    bottom: 40px;
 }
+
+
+.inner-main3{
+    width: 600px; 
+    display: table-cell; 
+        position: relative;
+    bottom: 40px;
+}
+
+.inner-main4{
+    display: table-cell; 
+}
+
+
+
+
 
 #blue-banner-title{
     font-family: 'Myriad Pro';
@@ -207,7 +226,7 @@ text-align: center;
 
 
 .grey-font{
-    color: lightgray;
+    color: whitesmoke;
 }
 
 
@@ -222,7 +241,9 @@ h5.main-title-foot{
 }
 
 ul.foot-list {
-  list-style-type: none;
+    list-style-type: none;
+    position: relative;
+    right: 40px;
 }
 
 li.foot-li{
